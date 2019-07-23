@@ -1,0 +1,21 @@
+C:\Users\Hugh\AppData\Roaming\npm
++-- babel-cli@6.26.0
++-- babel-eslint@10.0.1
++-- browserify@13.3.0
++-- create-react-app@1.5.2
++-- eslint@5.15.3
++-- eslint-config-prettier@4.1.0
++-- eslint-plugin-prettier@3.0.1
++-- eslint-plugin-react@7.12.4
++-- gulp-cli@2.0.1
++-- nodemon@1.18.4
++-- npm@6.8.0
++-- npm-install-all@1.1.21
++-- npm-windows-upgrade@6.0.1
++-- prettier@1.16.4
++-- serve@10.0.2
++-- uglify-js@3.4.9
++-- update-node@0.1.0
++-- watch@0.19.2
+`-- webpack@1.15.0
+
